@@ -1,0 +1,37 @@
+****** TO-DO voor de eindopdracht:******
+
+X1. Verschillende classes voor de achtergronden: default(grijs), rood, oranje, paars en groen.
+X2. Hamburgermenu verwerken in html.
+X3. Uitzoeken hoe ik een toggle-menu maak.
+X4. Functions maken die toggelen door de verschillende kleuren.
+X5. Filmpjes bekijken: 
+    https://www.youtube.com/watch?v=yytscwxx1pk&list=PL0eyrZgxdwhxNGMWROnaY35NLyEjTqcgB&index=21&ab_channel=DaniKrossing
+    https://www.youtube.com/watch?v=urol_SD1wz4&list=PL0eyrZgxdwhxNGMWROnaY35NLyEjTqcgB&index=22&ab_channel=DaniKrossing
+X6. Uitzoeken of ik een resetstylesheet nodig heb en wat dat is.
+
+
+****** MINIMUM  REQUIREMENTS ******
+The minimum requirements that your project needs to meet:
+
+X1. As a user I can click on the hamburger icon and it will show me a menu of color choices.
+X2. Use an ul and li for the menu.
+X3. The next icon you will be using for the menu: Hamburger icon
+X4. The colors are described in the menu as text. Each item in the menu is a different color.
+X5. As a user I can only click on one color from of the menu.
+X6. When the color is clicked on the menu, the background of the webpage will change into 
+the picked color.
+X7. After the color has been picked, the menu will close.
+
+
+****** BONUS ******
+X1. Each "row " in toggle menu has a different color.
+2. radio button in the color menu, so I can see "onClick" which color is "active" 
+on that moment.
+3. Hover over the Hamburger icon with the mouse instead of clicking. The menu closes 
+when the mouse is not hovering on the hamburger icon.
+X4. As a user I want to see the picked color name described into my webpage 
+and it changes after changing color.
+5. As a user I want to see the menu sliding in and out smoothly into the screen, 
+instead of popping out suddenly.(Use CSS transition and the direction doesn't matter)
+6. As a user I am able to change the color with the keyboard.
+(1 for home, 2 for red, 3 6. for orange, etc.) ⇒ ****Here you need new Event Type...
